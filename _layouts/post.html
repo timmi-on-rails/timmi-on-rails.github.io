@@ -15,9 +15,11 @@ layout: default
       {% endif %}</p>
   </header>
 
+  <div id="toc">
+    {% include toc.html html=content %}
+  </div>
+
   <div class="post-content" itemprop="articleBody">
-    {{ content }}
+    {{content}}
   </div>
 </article>
-
-{% include sidebar.html %}
