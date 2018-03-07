@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: timmi-on-rails/timmi-on-rails.github.io
+  site_domain: timmi-on-rails.github.io
 
 media_folder: "assets"
 
