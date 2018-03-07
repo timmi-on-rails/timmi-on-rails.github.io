@@ -1,10 +1,8 @@
 ---
-title: Welcome to Jekyll!
-date: 2018-02-03 22:18:34 Z
-categories:
-- jekyll
-- update
 layout: post
+title:  "Welcome to Jekyll!"
+date:   2018-02-03 23:18:34 +0100
+categories: jekyll update
 author: Tom Scheler
 ---
 
